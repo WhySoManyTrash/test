@@ -1,1 +1,3 @@
 Hello Git!!
+Let's get started.
+Please wait for some more time!
